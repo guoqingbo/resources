@@ -1,0 +1,7 @@
+css3在ie中的兼容问题，如transform,transition,
+ie中常见的兼容问题
+圆角在ie中的兼容
+
+min-height兼容写法
+css js书写规范，相关书籍
+input 和lable标签对齐 浮动  vertical-alin:midle;
